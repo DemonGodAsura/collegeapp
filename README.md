@@ -1,2 +1,2 @@
 # collegeapp
-created as a central hub for all dev
+created as a sharing source for my contribution to the project
